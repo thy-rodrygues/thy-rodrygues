@@ -61,7 +61,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Dashboard Power BI** | Painel interativo para análise de indicadores de desempenho com DAX e Power Query. | Power BI, DAX, Excel | [Demo](https://github.com/thy-rodrygues) · [Código](https://github.com/thy-rodrygues) |
-| Classificador de Dados | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demonstração](https://colab.research.google.com/github/thy-rodrygues/projeto_classificacao/blob/main/seu_arquivo.ipynb) · [Código](https://github.com/thy-rodrygues/projeto_classificacao) |
+| Classificador de Dados | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demonstração](https://colab.research.google.com/github/thy-rodrygues/projeto-classificacao/blob/main/titanic_model.ipynb) · [Código](https://github.com/thy-rodrygues/projeto_classificacao) |
 
 <br>
 

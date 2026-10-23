@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&customColorList=1E40AF,2563EB,3B82F6,60A5FA&height=240&section=header&text=Thyago%20Rodrigues&fontSize=38&fontColor=ffffff&desc=Desenvolvedor%20Back-end%20%7C%20Python%20%7C%20HTML%20%7C%20C%23&descSize=16&descColor=e0e7ff&animation=fadeIn" alt="Header Azul Royal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&customColorList=1E40AF,2563EB,3B82F6,60A5FA&height=260&section=header&text=Thyago%20Rodrigues&fontSize=32&fontColor=ffffff&desc=Desenvolvedor%20Back-end%20%7C%20Python%20%7C%20HTML%20%7C%20C%23&descSize=16&descColor=e0e7ff&animation=fadeIn" alt="Header Azul Royal" />
 </p>
 
 <p align="center">
@@ -73,6 +73,16 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
   | **Invasão Alien (Pygame)** | Jogo arcade 2D com controle de naves, frotas e pontuação. | Python, Pygame | [Código](https://github.com/thy-rodrygues) |
 
 </details>
+
+---
+
+### 🤖 Assistente & Colaboração IA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Colaboração-Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
+</p>
+
+> *"Projetos desenvolvidos e estruturados com o suporte do **Gemini** para otimização de código, arquitetura de software, resolução de bugs e documentação."*
 
 ---
 

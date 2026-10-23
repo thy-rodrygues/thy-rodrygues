@@ -6,11 +6,11 @@
   <a href="https://www.linkedin.com/in/thyago-rodrigues-46784b351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="ttps://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=valdirgsr@gmail.com&su=Contato%20via%20GitHub)">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=valdirgsr@gmail.com&su=Contato%20via%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://thy-rodrygues.github.io" target="_blank">
-    <img src="[https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge](https://thy-rodrygues.github.io/portfolio/)" />
+  <a href="https://thy-rodrygues.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 | O que busco | Como posso ajudar | Contato Rápido |
 | :--- | :--- | :--- |
-| • Vagas de Estágio <br>• Oportunidades como Jovem Aprendiz <br>• Projetos acadêmicos e freelas | • Dashboards interativos (Power BI / Excel) <br>• Scripts de automação e lógica em Python <br>• Desenvolvimento de páginas web e portfólios | • [Enviar um E-mail](mailto:seu-email@gmail.com) <br>• [Conectar no LinkedIn](https://www.linkedin.com/in/thyago-rodrigues-46784b351/) |
+| • Vagas de Estágio <br>• Oportunidades como Jovem Aprendiz <br>• Projetos acadêmicos e freelas | • Dashboards interativos (Power BI / Excel) <br>• Scripts de automação e lógica em Python <br>• Desenvolvimento de páginas web e portfólios | • [Enviar um E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=valdirgsr@gmail.com&su=Contato%20via%20GitHub) <br>• [Conectar no LinkedIn](https://www.linkedin.com/in/thyago-rodrigues-46784b351/) |
 
 ---
 
@@ -66,7 +66,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 <details>
   <summary><b>📂 Ver mais projetos secundários e acadêmicos</b></summary>
   <br>
-  
+
   | Projeto | O que entrega | Stack | Links |
   | :--- | :--- | :--- | :--- |
   | **Classificador de Dados** | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demo](https://colab.research.google.com) · [Código](https://github.com/thy-rodrygues) |

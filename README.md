@@ -16,13 +16,13 @@
 
 ---
 
-###  Sobre Mim
+### 💻 Sobre Mim
 
- Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
+Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
 
 ---
 
-###  Aberto a Oportunidades
+### 🚀 Aberto a Oportunidades
 
 | O que busco | Como posso ajudar | Contato Rápido |
 | :--- | :--- | :--- |
@@ -30,9 +30,9 @@
 
 ---
 
-###  Órgãos transversais
+### 🛠️ Tecnologias e Ferramentas
 
-
+**Hard Skills que domino:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -49,22 +49,22 @@
 **Estudando agora:**
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Pygame-000000?style=flat-square&logo=python&logoColor=white" alt="Pygame" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cloud-0175C2?style=flat-square&logo=huawei&logoColor=white" alt="Cloud Computing" />
 </p>
 
 ---
 
-###  Projetos em Destaque
+### 📊 Projetos em Destaque
 
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Dashboard Power BI** | Painel interativo para análise de indicadores de desempenho com DAX e Power Query. | Power BI, DAX, Excel | [Demo](https://github.com/thy-rodrygues) · [Código](https://github.com/thy-rodrygues) |
-| **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo]((https://jogo-da-forca--Thy-rodrygues11.replit.app)) · [Código](https://github.com/thy-rodrygues) |
+| **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://jogo-da-forca--Thy-rodrygues11.replit.app) · [Código](https://github.com/thy-rodrygues) |
 
 <details>
-  <summary><b> Ver mais projetos secundários e acadêmicos</b></summary>
+  <summary><b>📂 Ver mais projetos secundários e acadêmicos</b></summary>
   <br>
 
   | Projeto | O que entrega | Stack | Links |
@@ -76,7 +76,7 @@
 
 ---
 
-###  Foco Atual
+### 🎯 Foco Atual
 
 - [x] Desenvolvimento de projetos pessoais com HTML/CSS/JS
 - [ ] Aprofundamento em algoritmos e estruturas de dados avançadas
@@ -86,7 +86,7 @@
 
 ---
 
-###  Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thy-rodrygues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827" alt="GitHub Stats" />

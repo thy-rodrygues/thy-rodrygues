@@ -75,16 +75,6 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
 ---
 
-### Assistente & Colaboração IA
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Colaboração-Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
-</p>
-
-> *"Projetos desenvolvidos e estruturados com o suporte do **Gemini** para otimização de código, arquitetura de software, resolução de bugs e documentação."*
-
----
-
 ### Foco Atual
 
 - [x] Desenvolvimento de projetos pessoais com HTML/CSS/JS

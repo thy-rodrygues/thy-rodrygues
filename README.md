@@ -60,7 +60,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Dashboard Power BI** | Painel interativo para análise de indicadores de desempenho com DAX e Power Query. | Power BI, DAX, Excel | [Demo](https://github.com/thy-rodrygues) · [Código](https://github.com/thy-rodrygues) |
-| **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://jogo-da-forca--Thy-rodrygues11.replit.app) · [Código](https://github.com/thy-rodrygues) |
+ | **Classificador de Dados** | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demo](https://colab.research.google.com) · [Código](https://github.com/thy-rodrygues) |
 
 <details>
   <summary><b>📂 Ver mais projetos secundários e acadêmicos</b></summary>
@@ -68,9 +68,9 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
   | Projeto | O que entrega | Stack | Links |
   | :--- | :--- | :--- | :--- |
-  | **Classificador de Dados** | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demo](https://colab.research.google.com) · [Código](https://github.com/thy-rodrygues) |
+ 
   | **Invasão Alien (Pygame)** | Jogo arcade 2D com controle de naves, frotas e pontuação. | Python, Pygame | [Código](https://github.com/thy-rodrygues) |
-
+| **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://jogo-da-forca--Thy-rodrygues11.replit.app) · [Código](https://github.com/thy-rodrygues) |
 </details>
 
 ---

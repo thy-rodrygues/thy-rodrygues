@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://thy-rodrygues.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+    <img src="[https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge](https://thy-rodrygues.github.io/portfolio/)" />
   </a>
 </p>
 

@@ -22,7 +22,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
 ---
 
-### 🚀 Aberto a Oportunidades
+### Aberto a Oportunidades
 
 | O que busco | Como posso ajudar | Contato Rápido |
 | :--- | :--- | :--- |

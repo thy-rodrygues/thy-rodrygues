@@ -61,7 +61,7 @@
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Dashboard Power BI** | Painel interativo para análise de indicadores de desempenho com DAX e Power Query. | Power BI, DAX, Excel | [Demo](https://github.com/thy-rodrygues) · [Código](https://github.com/thy-rodrygues) |
-| **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo]([https://replit.com](https://jogo-da-forca--Thy-rodrygues11.replit.app)) · [Código](https://github.com/thy-rodrygues) |
+| **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo]((https://jogo-da-forca--Thy-rodrygues11.replit.app)) · [Código](https://github.com/thy-rodrygues) |
 
 <details>
   <summary><b> Ver mais projetos secundários e acadêmicos</b></summary>

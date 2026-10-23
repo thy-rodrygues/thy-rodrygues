@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&customColorList=1E40AF,2563EB,3B82F6,60A5FA&height=220&section=header&text=Thyago%20Rodrigues&fontSize=44&fontColor=ffffff&desc=Desenvolvedor%20Back-end%20%7C%20Python%20%7C%20HTML%20%7C%20C%23&descSize=18&descColor=e0e7ff&animation=fadeIn" alt="Header Azul Royal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&customColorList=1E40AF,2563EB,3B82F6,60A5FA&height=240&section=header&text=Thyago%20Rodrigues&fontSize=38&fontColor=ffffff&desc=Desenvolvedor%20Back-end%20%7C%20Python%20%7C%20HTML%20%7C%20C%23&descSize=16&descColor=e0e7ff&animation=fadeIn" alt="Header Azul Royal" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thyago-rodrigues-46784b351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=valdirgsr@gmail.com&su=Contato%20via%20GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-1E40AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://thy-rodrygues.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 

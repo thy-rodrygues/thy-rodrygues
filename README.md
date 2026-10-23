@@ -16,13 +16,13 @@
 
 ---
 
-### Sobre Mim
+### 💻 Sobre Mim
 
 Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
 
 ---
 
-### Aberto a Oportunidades
+### 🚀 Aberto a Oportunidades
 
 | O que busco | Como posso ajudar | Contato Rápido |
 | :--- | :--- | :--- |
@@ -30,8 +30,9 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
 ---
 
-### Órgãos transversais
+### 🛠️ Tecnologias e Ferramentas
 
+**Hard Skills que domino:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -55,12 +56,14 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
 ---
 
-### Projetos em Destaque
+### 📊 Projetos em Destaque
 
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Dashboard Power BI** | Painel interativo para análise de indicadores de desempenho com DAX e Power Query. | Power BI, DAX, Excel | [Demo](https://github.com/thy-rodrygues) · [Código](https://github.com/thy-rodrygues) |
- | **Classificador de Dados** | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demo](https://colab.research.google.com) · [Código](https://github.com/thy-rodrygues) |
+| **Classificador de Dados** | Modelo preditivo aplicando árvores de decisão em bases de dados. | Python, Pandas, Scikit-Learn | [Demo](https://colab.research.google.com) · [Código](https://github.com/thy-rodrygues) |
+
+<br>
 
 <details>
   <summary><b>📂 Ver mais projetos secundários e acadêmicos</b></summary>
@@ -68,14 +71,14 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
   | Projeto | O que entrega | Stack | Links |
   | :--- | :--- | :--- | :--- |
- 
   | **Invasão Alien (Pygame)** | Jogo arcade 2D com controle de naves, frotas e pontuação. | Python, Pygame | [Código](https://github.com/thy-rodrygues) |
-   | **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://jogo-da-forca--Thy-rodrygues11.replit.app) · [Código](https://github.com/thy-rodrygues) |
+  | **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://jogo-da-forca--Thy-rodrygues11.replit.app) · [Código](https://github.com/thy-rodrygues) |
+
 </details>
 
 ---
 
-### Foco Atual
+### 🎯 Foco Atual
 
 - [x] Desenvolvimento de projetos pessoais com HTML/CSS/JS
 - [ ] Aprofundamento em algoritmos e estruturas de dados avançadas
@@ -85,7 +88,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
 ---
 
-### Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thy-rodrygues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=4169E1&icon_color=4169E1" alt="GitHub Stats" />

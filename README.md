@@ -78,9 +78,11 @@
 
 ###  Foco Atual
 
-- [x] Desenvolvimento do portfólio pessoal responsivo com HTML/CSS/JS
+- [x] Desenvolvimento de projetos pessoais com HTML/CSS/JS
 - [ ] Aprofundamento em algoritmos e estruturas de dados avançadas
 - [ ] Conclusão de estudos focados em Inteligência Artificial e Machine Learning
+- [ ] Estudar Python
+- [ ] Aprimorar o design responsivo e a inclusão digital
 
 ---
 

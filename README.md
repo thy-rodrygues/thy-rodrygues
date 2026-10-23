@@ -30,9 +30,9 @@
 
 ---
 
-###  Tecnologias e Ferramentas
+###  Órgãos transversais
 
-**Hard Skills que domino:**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />

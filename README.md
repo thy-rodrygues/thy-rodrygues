@@ -16,9 +16,9 @@
 
 ---
 
-### 💻 Sobre Mim
+### Sobre Mim
 
-Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em desenvolvimento Back-end, automações em Python, sistemas em C#, modelagem de dados e criação de interfaces web funcionais.
+Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
 
 ---
 
@@ -30,9 +30,8 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Órgãos transversais
 
-**Hard Skills que domino:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -56,7 +55,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 📊 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -76,7 +75,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 🤖 Assistente & Colaboração IA
+### Assistente & Colaboração IA
 
 <p align="center">
   <img src="https://img.shields.io/badge/Colaboração-Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" />
@@ -86,7 +85,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 🎯 Foco Atual
+### Foco Atual
 
 - [x] Desenvolvimento de projetos pessoais com HTML/CSS/JS
 - [ ] Aprofundamento em algoritmos e estruturas de dados avançadas
@@ -96,7 +95,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 📈 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thy-rodrygues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=4169E1&icon_color=4169E1" alt="GitHub Stats" />

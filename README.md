@@ -16,13 +16,13 @@
 
 ---
 
-### 💻 Sobre Mim
+###  Sobre Mim
 
 Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
 
 ---
 
-### 🚀 Aberto a Oportunidades
+###  Aberto a Oportunidades
 
 | O que busco | Como posso ajudar | Contato Rápido |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 **Hard Skills que domino:**
 <p>
@@ -56,7 +56,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 📊 Projetos em Destaque
+###  Projetos em Destaque
 
 | Projeto | O que entrega | Stack | Links |
 | :--- | :--- | :--- | :--- |
@@ -64,7 +64,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 | **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://replit.com) · [Código](https://github.com/thy-rodrygues) |
 
 <details>
-  <summary><b>📂 Ver mais projetos secundários e acadêmicos</b></summary>
+  <summary><b> Ver mais projetos secundários e acadêmicos</b></summary>
   <br>
 
   | Projeto | O que entrega | Stack | Links |
@@ -76,7 +76,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 🎯 Foco Atual
+###  Foco Atual
 
 - [x] Desenvolvimento do portfólio pessoal responsivo com HTML/CSS/JS
 - [ ] Aprofundamento em algoritmos e estruturas de dados avançadas
@@ -84,7 +84,7 @@ Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fun
 
 ---
 
-### 📈 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thy-rodrygues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827" alt="GitHub Stats" />

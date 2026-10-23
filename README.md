@@ -18,7 +18,7 @@
 
 ###  Sobre Mim
 
-Olá! Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
+ Sou estudante de **Ciência da Computação** no Centro Universitário Fundação Santo André (FSA). Gosto de transformar teoria acadêmica em projetos práticos, com forte foco em lógica de programação, automações em Python, modelagem de dados e criação de interfaces web limpas e funcionais.
 
 ---
 

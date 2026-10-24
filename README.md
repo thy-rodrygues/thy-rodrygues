@@ -71,7 +71,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
   | Projeto | O que entrega | Stack | Links |
   | :--- | :--- | :--- | :--- |
-  | **Invasão Alien (Pygame)** | Jogo arcade 2D com controle de naves, frotas e pontuação. | Python, Pygame | [Demo](https://github.com/thy-rodrygues) · [Código](https://github.com/thy-rodrygues/alien-invasion) |
+  | **Invasão Alien (Pygame)** | Jogo arcade 2D com controle de naves, frotas e pontuação. | Python, Pygame | [Demo](https://github.com/thy-rodrygues/alien-invasion) · [Código](https://github.com/thy-rodrygues/alien-invasion) |
   | **Jogo da Forca** | Aplicação interativa em terminal para praticar lógica e manipulação de strings. | Python | [Demo](https://jogo-da-forca--Thy-rodrygues11.replit.app) · [Código](https://github.com/thy-rodrygues/forca-game) |
 
 </details>

@@ -30,7 +30,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 
 ---
 
-### Tecnologias e Ferramentas
+### Ferramentas
 
 **Hard Skills que domino:**
 <p>

@@ -91,9 +91,9 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thy-rodrygues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=4169E1&icon_color=4169E1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thy-rodrygues&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=4169E1&icon_color=4169E1&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thy-rodrygues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=4169E1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thy-rodrygues&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=4169E1&cache_seconds=86400" alt="Top Languages" />
 </p>

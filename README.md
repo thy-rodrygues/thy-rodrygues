@@ -98,3 +98,7 @@ Sou estudante de **Ciência da Computação** no Centro Universitário Fundaçã
 </div>
 
 ---
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7986CB&customColorList=C5CAE9,9FA8DA,8C9EFF,7986CB&height=120&section=footer&animation=fadeIn" alt="Footer Azul Suave" />
+</p>
